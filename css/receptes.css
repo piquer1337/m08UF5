@@ -1,0 +1,13 @@
+table,th, td {
+    border-collapse: collapse;
+    border:2px solid;
+    text-align: center;
+}
+p {
+   color:red;
+   font-size: 64px;
+   }
+
+ body{
+     background-color: cornflowerblue;
+ }  
