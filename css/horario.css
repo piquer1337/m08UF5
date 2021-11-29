@@ -1,0 +1,28 @@
+table,th, td {
+    border:1px solid black;
+    border-collapse: collapse;    
+
+}
+th, td {
+    padding: 15px;
+}
+
+th{
+    text-align: left;
+}
+
+table td:first-child {
+    width: 20px;
+    background-color:gainsboro;
+    border-right-width: 3px;
+    font-weight: normal;
+    font-size: small;
+ 
+}
+td{
+    font-weight: bold;
+}
+
+.smx-m06{
+    background-color: blue;
+}
