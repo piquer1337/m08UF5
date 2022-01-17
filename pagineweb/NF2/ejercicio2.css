@@ -1,0 +1,89 @@
+div {
+    width: 600px;
+    height: 600px;
+    margin: 5px;
+}
+.verdes {
+    padding: 30px;
+    height: 10px;
+    width: 250px;
+    background-color: #690;
+    float: left;
+}
+.verdel {
+    padding: 30px;
+    height: 10px;
+    background-color: #6c0;
+    width: 90px;
+    float: left;
+}
+.negro {
+    padding: 50px;
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+}
+.negro2 {
+    padding: 50px;
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    margin: -62px 322px;
+}
+.verdel2 {
+    padding: 50px;
+    height: 120px;
+    background-color: #690;
+    width: 50px;
+    float: left;
+
+}
+.verdes2 {
+    padding: 30px;
+    height: 10px;
+    width: 90px;
+    background-color: #690;
+    float: left;
+}
+.verdes3 {
+    padding: 30px;
+    height: 15px;
+    background-color: #6c0;
+    width: 92px;
+    float: left;
+    margin: -15px 4px;
+}
+.verdel4 {
+    padding: 30px;
+    width: 90px;
+    height: 10px;
+    background-color: #690;
+    float: right;
+    margin: -65px 445px;
+}
+.negro3 {
+    padding: 50px;
+    width: 50px;
+    height: 60px;
+    background-color: black;
+    float: left;
+    margin: -15px 4px;
+}
+.verdes4 {
+    padding: 30px;
+    height: 15px;
+    background-color: #6c0;
+    width: 92px;
+    float: left;
+    margin: 70px -155px;
+}
+.verdes5 {
+    padding: 30px;
+    height: 15px;
+    background-color: #690;
+    width: 92px;
+    float: left;
+    margin: 70px 3px;
+}
