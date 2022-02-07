@@ -1,0 +1,241 @@
+body{ background-image: url(../pagineweb/wp7383064.png)
+
+}
+
+
+div {
+    width: 300px;
+    height: 200px;
+    margin:5%;
+    
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: red;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 0 8px 16px;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.astra img{
+    width: 15%;
+    height: 25%;
+    
+
+
+
+}
+.astra{
+    color:white;
+    font-size: 200%;
+    
+}
+.breach img{
+    width: 15%;
+    height: 25%;
+}
+.breach{
+    color: white;
+    font-size:200% ;
+    
+}
+
+.brimstone img{
+    width: 15%;
+    height: 25%;
+}
+.brimstone{
+    color:white;
+    font-size: 200%;
+   
+}
+
+.chamber img{
+    width: 15%;
+    height: 25%;
+}
+
+.chamber{
+    color:white;
+    font-size: 200%;
+    
+}
+
+.cypher{
+    color:white;
+    font-size: 200%;
+    margin-top: -287%;
+    margin-left: 80%;
+    
+}
+
+.cypher img{
+    width: 15%;
+    height: 25%;
+    
+}
+
+.jett{
+    color:white;
+    font-size: 200%;
+    margin-top: -10%;
+    margin-left: 75%;
+}
+
+.jett img{
+    width: 30%;
+    height: 50%;
+}
+
+.kayo img{
+    width: 15%;
+    height: 25%;
+}
+.kayo{
+    color:white;
+    font-size: 200%;
+    margin-top: 15%;
+    margin-left: 80%;
+}
+.killjoy img{
+    width: 15%;
+    height: 25%;
+}
+
+.killjoy{
+    color:white;
+    font-size: 200%;
+    margin-top: 0%;
+    margin-left: 80%;
+}
+
+.neon img{
+    width: 15%;
+    height: 25%;
+}
+
+.neon{
+    color:white;
+    font-size: 200%;
+    margin-left: 450%;
+    margin-top: -280%;
+}
+.omen img{
+    width: 15%;
+    height: 25%;
+}
+.omen{
+    color:white;
+    font-size: 200%;
+    margin-left: 450%;
+    margin-top: -260;
+}
+.phoenix img{
+    width: 15%;
+    height: 25%;
+}
+
+.phoenix{
+    color:white;
+    font-size: 200%;
+    margin-left: 450%;
+    margin-top:-240;
+}
+.raze img{
+    width: 15%;
+    height: 25%;
+}
+
+.raze{
+    color:white;
+    font-size: 200%;
+    margin-left: 450%;
+    margin-top:0%;
+}
+
+.reyna img{
+    width: 15%;
+    height: 25%;
+}
+.reyna{
+    color:white;
+    font-size: 200%;
+    margin-left: 520%;
+    margin-top:-285%;
+}
+
+.sage img{
+    width: 15%;
+    height: 25%;
+}
+.sage {
+    color: white;
+    font-size: 200%;
+    margin-left: 520%;
+    margin-top:0%
+}
+
+.skye img{
+    width: 15%;
+    height: 25%;
+}
+
+.skye{
+    color:white;
+    font-size: 200%;
+    margin-top: 0%;
+    margin-left: 520%;
+}
+
+.sova img{
+    width: 15%;
+    height: 25%;
+}
+
+.sova{
+    color:white;
+    font-size: 200%;
+    margin-top: 1%;
+    margin-left: 520%;;
+}
+
+.viper img{
+    width: 15%;
+    height: 25%;
+}
+
+.viper {
+    color:white;
+    font-size: 200%;
+    margin-left: 450%;
+    margin-top: -40%;
+
+
+}
+.yoru img{
+    width: 15%;
+    height: 25%;
+}
+
+.yoru{
+    color:white;
+    font-size: 200%;
+    margin-left:80%;
+    margin-top:-80%;
+}
+h1{
+   
+    font-size: 100px;
+   color:red;
+   -webkit-text-stroke: 1px black;
+   margin-top: -1200px;
+   margin-left: 650px;
+}
